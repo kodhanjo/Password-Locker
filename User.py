@@ -25,7 +25,7 @@ class User(Credentials):
         self.password = password
         self.token = self.generate_token
         print(f"Welcome {username}, You have a new account, you can use the following token for "
-              f"authentication.\n Your access token is {self.token} ")
+              f"authentication.\n Your token is {self.token} ")
         return {'username': username, 'password': password}
 
     def get_account_details(self, account_name):
