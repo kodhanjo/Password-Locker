@@ -3,7 +3,7 @@ from User import User
 
 
 class TestUser(TestCase):
-    u = User()
+    u = user()
 
     def test_user_new_user(self):
         self.assertEqual(self.u.new_user('john', 'keba'), {'username': 'john', 'password': 'keba'})
