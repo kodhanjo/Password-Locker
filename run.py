@@ -11,7 +11,7 @@ f = Figlet(font='mini')
 class RunApp:
 
     def __init__(self, ):
-        print(f.renderText("Welcome to Password Manager"))
+        print(f.renderText("Welcome to your Password-Locker"))
         self.user = User()
 
     def sign_up(self):
