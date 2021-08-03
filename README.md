@@ -1,20 +1,30 @@
-## Password Locker
+# Password Locker
+
 ## Description
-This is an python script that enables user to store login credentials for various accounts. It also generates a strong password + access token
+
+This is an python script that enables user to store login credentials for various accounts. It also generates a strong password plus access token
+
 ## Technologies used
--Python3.8
--Terminal Tables
--Pyfiglet
--Pyperclip
+
+* Python3.8
+* Terminal Tables
+* Pyfiglet
+* Pyperclip
+
 ## Setup Instructions
--Clone the repo
--run pip install pyperclip pyfiglet terminaltables
--inside the project folder, run python3 run.py
+
+* Clone the repo
+* Run pip install pyperclip pyfiglet terminaltables
+* inside the project folder, run python3 run.py
+
 ## Developed by
+
 Felix Osambo
 
 ## License
-MIT 
+
+MIT
+
 Copyright (c) 2021 Felix Osambo
 
 Permission is hereby granted, free of charge, to any person obtaining
