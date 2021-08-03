@@ -110,7 +110,7 @@ class RunApp:
                 if response == '1':
                     self.login()
                 elif response == '2':
-                    print(f.renderText("Goodbye, see you soon"))
+                    print(f.renderText("Goodbye"))
                     sys.exit(0)
 
     def run(self):
