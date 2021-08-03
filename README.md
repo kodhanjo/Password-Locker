@@ -2,7 +2,7 @@
 ## Description
 This is an python script that enables user to store login credentials for various accounts. It also generates a strong password + access token
 ## Technologies used
--Python3.6
+-Python3.8
 -Terminal Tables
 -Pyfiglet
 -Pyperclip
@@ -15,7 +15,7 @@ Felix Osambo
 
 ## License
 MIT 
-Copyright (c) 2021 felix Osambo
+Copyright (c) 2021 Felix Osambo
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
